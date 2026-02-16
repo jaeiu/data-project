@@ -1,6 +1,6 @@
 # 📘 Super Mario 64 Speedrun Dataset (Combined Categories)
 
-A comprehensive dataset of **Super Mario 64 (SM64)** speedruns collected from the public leaderboards on Speedrun.com.  
+A comprehensive dataset of **Super Mario 64 (SM64)** speedruns collected from the public leaderboards on [Speedrun.com](https://www.speedrun.com).  
 This project consolidates the top runs across multiple categories into a single, structured Excel file for easier analysis, research, and visualization.
 
 ## 📂 File Included
