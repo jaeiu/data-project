@@ -4,7 +4,7 @@ A comprehensive dataset of **Super Mario 64 (SM64)** speedruns collected from th
 This project consolidates the top runs across multiple categories into a single, structured Excel file for easier analysis, research, and visualization.
 
 ## 📂 File Included
-- **`sm64_combined_runs.xlsx`** — A combined dataset containing the top 100 runs of each category on 16/02/2026.
+- **`sm64_combined_runs.xlsx`** - A combined dataset containing the top 100 runs of each category on 16/02/2026.
 
 ___
 
