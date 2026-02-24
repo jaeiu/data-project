@@ -120,8 +120,8 @@ For 120 Star, this category is the highest consistency tester, with the record b
 
 ## 🎯 Cross-Category Insights
 ### A. Player Overlap Shows Strengths
-- Suigi: complete dominance — elite in both glitch and full-game routes.
-- Weegee: highly versatile — appears in almost every category’s top 5.
+- Suigi: complete dominance - elite in both glitch and full-game routes.
+- Weegee: highly versatile - appears in almost every category’s top 5.
 - Karin, Finnii602, taihou: movement-heavy specialists, shine in mid-high star categories.
 
 ### B. Platform Influence
